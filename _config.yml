@@ -6,9 +6,10 @@ color:
   saturation: 0.7731782733462751
   rhythmicContrast: 0.4236001006793231
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: The Unbreakable Sword
+title: POST PRODUCTION
