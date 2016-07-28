@@ -1,4 +1,3 @@
-layout_spectrum: 0.3498254104051739
 typography_spectrum: 0.5197880400810391
 color:
   brandStrength: 0.6465331439394504
@@ -11,4 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.3498254104051739
 name: The Unbreakable Sword
+title: POST PRODUCTION
+description: ACTION
